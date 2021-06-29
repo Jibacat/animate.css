@@ -1,10 +1,10 @@
 {
-  "name": "animate.css",
-  "version": "4.1.1",
+  "name": "animate-fix-direction.css",
+  "version": "1.0.0",
   "main": "animate.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/animate-css/animate.css.git"
+    "url": "https://github.com/Jibacat/animate.css"
   },
   "author": {
     "name": "Animate.css"
